@@ -30,3 +30,7 @@ Watch the stored template files for changes and updates the DB.
 `php tpl.php`
 
 Syncs local files onto DB.
+
+License
+-----
+This is to help other people, I didn't think I'd need a license but feel free to do whatever. Open-source licensed under the MIT license.
